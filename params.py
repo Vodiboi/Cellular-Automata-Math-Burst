@@ -1,0 +1,7 @@
+n = 93
+SZ = 400
+FPS = 10000
+SCR_WIDTH = 800
+SCR_HEIGHT = 800
+SIZE = 800
+FILL = (0, 0, 0)

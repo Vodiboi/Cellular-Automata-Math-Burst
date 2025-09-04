@@ -9,7 +9,7 @@ On finite boards, we asked two questions; [how many Plants can be made](https://
 
 ### My Findings in Particular
 
-I looked into general checkerboard (of water and plant cells) behavior, and [checkerboards that grow infinitely and ones that don't](https://docs.google.com/document/d/1CR2POYq-OAKLIEfDRuJL1y8O_004kQFaAy4k45UXW8I/edit?usp=sharing).
+I looked into general checkerboard (of water and plant cells) behavior, and [checkerboards that grow infinitely and ones that don't.](https://docs.google.com/document/d/1CR2POYq-OAKLIEfDRuJL1y8O_004kQFaAy4k45UXW8I/edit?usp=sharing).
 
-In this modified Game of Life, I found a shape that provably grows forever. In some sense, it builds a bridge. [the shape is described here](https://docs.google.com/document/d/1p63mhs6lkVSrHEC4CbhzEx2d7GlYdUTwQbewK3JuInk/edit?usp=sharing)
+In this modified Game of Life, I found a shape that provably grows forever. In some sense, it builds a bridge. [The shape is described here.](https://docs.google.com/document/d/1p63mhs6lkVSrHEC4CbhzEx2d7GlYdUTwQbewK3JuInk/edit?usp=sharing)
 

@@ -1,6 +1,6 @@
 # Math Burst 2024-25: Cellular Automata
 
-Math Burst is an annual 2-week math research project that my school facilitates. The school puts students into groups which look into a particlar subject based off of interest. My group, advised by [Dr Jonathan Quartin](https://www.linkedin.com/in/jonathan-quartin-968b60169/) was tasked with looking into Cellular Automata, specifically a variation on John Conway's Game of Life, which we called Conway's Farming Simulator. Rules for the game are [here](https://docs.google.com/document/d/1Ki42L5Et9mdAd-HqaVvKsXriCIsjzqKH6-QlcMrwLYo/edit?usp=sharing) 
+Math Burst is an annual 2-week math research project run in December that my school facilitates. The school puts students into groups which look into a particlar subject based off of interest. My group, advised by [Dr Jonathan Quartin](https://www.linkedin.com/in/jonathan-quartin-968b60169/) was tasked with looking into Cellular Automata, specifically a variation on John Conway's Game of Life, which we called Conway's Farming Simulator. Rules for the game are [here](https://docs.google.com/document/d/1Ki42L5Et9mdAd-HqaVvKsXriCIsjzqKH6-QlcMrwLYo/edit?usp=sharing) 
 
 
 For our presentation, we explored two different types of boards: finite boards and infinite boards. Since the main difference between the normal game of life and this is the inclusion of Plants, our questions focused on them and how they work in the game of life.
